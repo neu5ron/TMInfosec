@@ -1,5 +1,3 @@
-Sites
-=====
 * http://www.threatglass.com/submissions/new
 * http://www.malwareurl.com/listing-urls.php
 * http://urlquery.net/

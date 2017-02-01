@@ -1,5 +1,3 @@
-Sites
-=====
 * https://nodistribute.com/
 * https://csi.websense.com/
 * https://valkyrie.comodo.com/

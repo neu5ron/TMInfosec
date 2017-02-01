@@ -1,5 +1,3 @@
-Sites
-========
 * http://www.shallalist.de/search.html
 * http://www.nictasoft.com/ace/url-search/
 * https://sitereview.bluecoat.com/sitereview.jsp

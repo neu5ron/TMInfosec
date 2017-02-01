@@ -1,5 +1,3 @@
-Sites
-========
 * https://www.robtex.com
 * https://whois.domaintools.com
 * http://domainbigdata.com

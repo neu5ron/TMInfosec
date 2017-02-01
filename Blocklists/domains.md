@@ -1,0 +1,19 @@
+* https://pgl.yoyo.org/adservers/serverlist.php?hostformat=;showintro=0
+* https://mirror1.malwaredomains.com/files/justdomains OR https://mirror.cedia.org.ec/malwaredomains/justdomains
+* https://www.malwaredomainlist.com/hostslist/hosts.txt
+* https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+* https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
+* https://feodotracker.abuse.ch/blocklist/?download=domainblocklist
+* https://isc.sans.edu/feeds/suspiciousdomains_Low.txt
+* https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+* https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+* https://malc0de.com/bl/ZONES
+* https://cybercrime-tracker.net/all.php
+* https://gist.githubusercontent.com/neu5ron/8dd695d4cb26b6dcd997/raw/5c31ae47887abbff76461e11a3733f26bddd5d44/dynamic-dns.txt
+* https://hosts-file.net/download/hosts.txt
+* http://vxvault.net/URL_List.php
+* http://support.it-mate.co.uk/downloads/HOSTS.txt
+* https://data.phishtank.com/data/online-valid.json
+* https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+* http://mirror1.malwaredomains.com/files/dynamic_dns.txt
+* https://www.threatcrowd.org/feeds/domains.txt

@@ -1,5 +1,3 @@
-Sites
-========
 * https://www.fortiguard.com/iprep
 * http://support.clean-mx.de/clean-mx/index.php
 * https://malc0de.com/database/
