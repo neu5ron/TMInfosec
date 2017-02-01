@@ -1,20 +1,20 @@
 Sites
 =====
-http://www.threatglass.com/submissions/new
-http://www.malwareurl.com/listing-urls.php
-http://urlquery.net/
-http://zulu.zscaler.com/
-https://sitecheck.sucuri.net/
-http://jsunpack.jeek.org/dec/go
-https://quttera.com
-http://evuln.com/tools/malware-scanner/
-https://www.virustotal.com/#url
-https://www.url-analyzer.net/
-https://nodistribute.com/
-https://csi.websense.com/
-https://www.virustotal.com/#url
-https://www.hybrid-analysis.com/
-https://fireeye.ijinshan.com/
-https://www.joesecurity.org/
-https://malwr.com/
-http://sandbox.pikker.ee/submit/
+* http://www.threatglass.com/submissions/new
+* http://www.malwareurl.com/listing-urls.php
+* http://urlquery.net/
+* http://zulu.zscaler.com/
+* https://sitecheck.sucuri.net/
+* http://jsunpack.jeek.org/dec/go
+* https://quttera.com
+* http://evuln.com/tools/malware-scanner/
+* https://www.virustotal.com/#url
+* https://www.url-analyzer.net/
+* https://nodistribute.com/
+* https://csi.websense.com/
+* https://www.virustotal.com/#url
+* https://www.hybrid-analysis.com/
+* https://fireeye.ijinshan.com/
+* https://www.joesecurity.org/
+* https://malwr.com/
+* http://sandbox.pikker.ee/submit/
