@@ -1,0 +1,33 @@
+Sites
+========
+* https://www.fortiguard.com/iprep
+* http://support.clean-mx.de/clean-mx/index.php
+* https://malc0de.com/database/
+* http://www.threatexpert.com/reports.aspx
+* https://www.malwaredomainlist.com/mdl.php
+* https://zeustracker.abuse.ch/monitor.php
+* https://ransomwaretracker.abuse.ch/tracker/
+* https://www.scumware.org/search.scumware
+* http://www.malware.com.br/open-source.shtml
+* https://cybercrime-tracker.net/
+* http://vxvault.net/ViriList.php
+* https://www.iblocklist.com/lists
+* https://www.phishtank.com/phish_archive.php
+* http://malwaredb.malekal.com/
+* http://malshare.com/
+* https://totalhash.cymru.com/
+* https://cleantalk.org/blacklists
+* http://www.threatglass.com/
+* https://www.brightcloud.com/tools/url-ip-lookup.php
+* https://cybertracker.malwarehunterteam.com/
+* https://www.hybrid-analysis.com/advanced-search
+* http://track.h3x.eu/
+* http://toolbar.netcraft.com/site_report
+* https://www.threatminer.org
+* http://urlquery.net/
+* https://www.virustotal.com/search
+* https://exchange.xforce.ibmcloud.com/
+* https://malwr.com/
+* http://sandbox.pikker.ee/analysis/search/
+* https://www.malwares.com/
+* http://urlblacklist.com/?sec=search
