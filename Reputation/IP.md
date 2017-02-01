@@ -31,7 +31,7 @@ Sites
 * https://www.binarydefense.com/banlist.txt
 * https://www.hybrid-analysis.com/advanced-search
 * https://github.com/firehol/blocklist-ipsets
-* https://ipintel.io/?
+* https://ipintel.io
 * https://www.threatcrowd.org/feeds/ips.txt
 * http://track.h3x.eu/
 * https://www.threatminer.org
