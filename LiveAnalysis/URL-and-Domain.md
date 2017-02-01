@@ -12,7 +12,6 @@ Sites
 * https://www.url-analyzer.net/
 * https://nodistribute.com/
 * https://csi.websense.com/
-* https://www.virustotal.com/#url
 * https://www.hybrid-analysis.com/
 * https://fireeye.ijinshan.com/
 * https://www.joesecurity.org/
