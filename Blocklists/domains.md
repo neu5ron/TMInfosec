@@ -1,5 +1,5 @@
 * https://pgl.yoyo.org/adservers/serverlist.php?hostformat=;showintro=0
-* https://mirror1.malwaredomains.com/files/justdomains OR https://mirror.cedia.org.ec/malwaredomains/justdomains
+* https://mirror1.malwaredomains.com/files/justdomains
 * https://www.malwaredomainlist.com/hostslist/hosts.txt
 * https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 * https://palevotracker.abuse.ch/blocklists.php?download=domainblocklist
