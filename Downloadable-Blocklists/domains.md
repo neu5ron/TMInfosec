@@ -17,3 +17,5 @@
 * https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 * http://mirror1.malwaredomains.com/files/dynamic_dns.txt
 * https://www.threatcrowd.org/feeds/domains.txt
+* https://www.threatweb.com/access/Malware-Domains-High_Confidence_BL.txt
+* https://www.threatweb.com/access/Phishing-Domains-High_Confidence_BL.txt
