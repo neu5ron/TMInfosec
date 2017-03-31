@@ -15,3 +15,4 @@
 * https://www.joesecurity.org/
 * https://malwr.com/
 * http://sandbox.pikker.ee/submit/
+* https://urlscan.io/
