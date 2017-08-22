@@ -29,5 +29,6 @@
 * https://www.networktotal.com/search.html
 * https://malwareconfig.com/
 * https://www.malwares.com/
-https://manalyzer.org/
+* https://manalyzer.org/
+* https://filecheck.io/
 
