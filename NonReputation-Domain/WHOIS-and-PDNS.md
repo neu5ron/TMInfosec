@@ -21,3 +21,4 @@
 * http://viewdns.info
 * https://www.activednsproject.org/
 * https://www.statdns.com/
+* https://reverse.report/
