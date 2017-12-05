@@ -1,3 +1,4 @@
+* https://www.passivetotal.org
 * https://www.robtex.com
 * https://whois.domaintools.com
 * http://domainbigdata.com
@@ -16,9 +17,11 @@
 * http://www.whoisxy.com/
 * https://domainpunch.com
 * https://domainpunch.com/tlds/search.php
-* https://domainpunch.com/tlds
 * https://research.domaintools.com/statistics/tldpedia
 * http://viewdns.info
 * https://www.activednsproject.org/
 * https://www.statdns.com/
 * https://reverse.report/
+* https://blog.opendns.com/security-graph
+* http://urlquery.net/
+* https://www.virustotal.com/search
