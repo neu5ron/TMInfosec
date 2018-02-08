@@ -1,5 +1,6 @@
 * https://www.passivetotal.org
 * https://www.robtex.com
+* https://dnstrails.com
 * https://whois.domaintools.com
 * http://domainbigdata.com
 * https://www.domaincrawler.com/
