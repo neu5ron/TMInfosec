@@ -29,3 +29,4 @@
 * http://sandbox.pikker.ee/analysis/search/
 * https://www.malwares.com/
 * http://urlblacklist.com/?sec=search
+* https://urlhaus.abuse.ch
