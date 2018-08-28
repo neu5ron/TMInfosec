@@ -1,3 +1,4 @@
+* https://threatfeeds.io/
 * https://pgl.yoyo.org/adservers/serverlist.php?hostformat=;showintro=0
 * https://mirror1.malwaredomains.com/files/justdomains
 * https://www.malwaredomainlist.com/hostslist/hosts.txt
