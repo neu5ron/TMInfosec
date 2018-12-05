@@ -14,3 +14,4 @@
 * https://malwareconfig.com/
 * https://portal.binaryguard.com/login
 * https://manalyzer.org/
+* https://app.sndbox.com
