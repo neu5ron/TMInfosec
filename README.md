@@ -15,5 +15,3 @@ Many of these sites are run by people in their spare time(for free) and the upda
 If I, at 19 years old, was able to vet Alexa top million then you too can toooooo. Run helpdesk for a few days and you will understand why you too need to vet any auto block lists.
 
 Let me know if I am missing anything!
-
-Go Cleveland Cavs
