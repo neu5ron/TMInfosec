@@ -11,3 +11,5 @@
 * https://github.com/micheloosterhof/cowrie -- ssh and telnet honeypot
 * https://github.com/diogo-fernan/malsub -- Python RESTful API framework for online malware and URL analysis services.
 * https://github.com/Microsoft/binskim#getting-started-as-a-user -- binary static analysis tool that provides security and correctness results for Windows executables
+* https://github.com/deralexxx/osint_to_timesketch
+* https://github.com/smicallef/spiderfoot

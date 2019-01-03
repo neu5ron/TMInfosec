@@ -3,3 +3,5 @@
 * https://transparencyreport.google.com/
 * https://publicwww.com/ -- Source Code Search Engine. Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
 * https://github.com/D4-project/IPASN-History -- IP ASN History
+* https://github.com/deralexxx/osint_to_timesketch
+* https://github.com/smicallef/spiderfoot
