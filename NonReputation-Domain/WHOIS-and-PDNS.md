@@ -18,7 +18,6 @@
 * http://www.whoisxy.com/
 * https://domainpunch.com
 * https://domainpunch.com/tlds/search.php
-* https://research.domaintools.com/statistics/tldpedia
 * http://viewdns.info
 * https://www.activednsproject.org/
 * https://www.statdns.com/
