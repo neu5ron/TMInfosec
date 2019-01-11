@@ -14,3 +14,6 @@
 * https://github.com/deralexxx/osint_to_timesketch
 * https://github.com/smicallef/spiderfoot
 * https://certstream.calidog.io/ -- ssl certificate stream in real time
+* https://github.com/blechschmidt/masswhois
+* https://github.com/blechschmidt/massdns
+* https://github.com/TheRook/subbrute

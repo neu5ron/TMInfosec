@@ -5,3 +5,4 @@
 * https://github.com/D4-project/IPASN-History -- IP ASN History
 * https://github.com/deralexxx/osint_to_timesketch
 * https://github.com/smicallef/spiderfoot
+* https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/
