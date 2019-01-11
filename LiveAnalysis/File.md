@@ -15,3 +15,5 @@
 * https://portal.binaryguard.com/login
 * https://manalyzer.org/
 * https://app.sndbox.com
+* https://analyze.intezer.com
+* https://any.run/

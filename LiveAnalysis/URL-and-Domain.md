@@ -16,3 +16,4 @@
 * https://malwr.com/
 * http://sandbox.pikker.ee/submit/
 * https://urlscan.io/
+* https://any.run/

@@ -13,3 +13,4 @@
 * https://github.com/Microsoft/binskim#getting-started-as-a-user -- binary static analysis tool that provides security and correctness results for Windows executables
 * https://github.com/deralexxx/osint_to_timesketch
 * https://github.com/smicallef/spiderfoot
+* https://certstream.calidog.io/ -- ssl certificate stream in real time

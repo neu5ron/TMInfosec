@@ -26,3 +26,4 @@
 * http://urlquery.net/
 * https://www.virustotal.com/search
 * https://registry.opendata.aws/rapid7-fdns-any/
+* https://securitytrails.com/dns-trails
