@@ -6,3 +6,5 @@
 * https://github.com/deralexxx/osint_to_timesketch
 * https://github.com/smicallef/spiderfoot
 * https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/
+* https://inteltechniques.com/menu.html
+* https://github.com/fox-it/cobaltstrike-extraneous-space/blob/master/cobaltstrike-servers.csv
