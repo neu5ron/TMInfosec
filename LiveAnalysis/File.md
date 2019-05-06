@@ -1,9 +1,14 @@
+* https://any.run/
+* https://iris-h.services/
+* https://www.hybrid-analysis.com/
+* https://analyze.intezer.com
+* https://portal.binaryguard.com/login
+* https://avcaesar.malware.lu/
+* https://www.virustotal.com/#file
+* https://malwr.com/
 * https://nodistribute.com/
 * https://csi.websense.com/
 * https://valkyrie.comodo.com/
-* https://www.hybrid-analysis.com/
-* https://avcaesar.malware.lu/
-* https://malwr.com/
 * https://www.opswat.com/free-tools
 * http://www.threatexpert.com/submit.aspx
 * https://www.vicheck.ca/
@@ -12,8 +17,5 @@
 * http://akana.mobiseclab.org/
 * http://sandbox.pikker.ee/submit/
 * https://malwareconfig.com/
-* https://portal.binaryguard.com/login
 * https://manalyzer.org/
 * https://app.sndbox.com
-* https://analyze.intezer.com
-* https://any.run/

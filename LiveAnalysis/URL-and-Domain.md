@@ -1,3 +1,5 @@
+* https://urlscan.io/
+* https://any.run/
 * http://www.threatglass.com/submissions/new
 * http://www.malwareurl.com/listing-urls.php
 * http://urlquery.net/
@@ -15,5 +17,3 @@
 * https://www.joesecurity.org/
 * https://malwr.com/
 * http://sandbox.pikker.ee/submit/
-* https://urlscan.io/
-* https://any.run/
