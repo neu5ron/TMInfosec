@@ -10,7 +10,7 @@
 * https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 * https://malc0de.com/bl/ZONES
 * https://cybercrime-tracker.net/all.php
-* https://gist.githubusercontent.com/neu5ron/8dd695d4cb26b6dcd997/raw/5c31ae47887abbff76461e11a3733f26bddd5d44/dynamic-dns.txt
+* https://gist.github.com/neu5ron/8dd695d4cb26b6dcd997/archive/a77f7507e86b5c1c886a247de761b38bbf134f43.zip
 * https://hosts-file.net/download/hosts.txt
 * http://vxvault.net/URL_List.php
 * http://support.it-mate.co.uk/downloads/HOSTS.txt
