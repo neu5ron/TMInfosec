@@ -1,17 +1,49 @@
 Too Much Information in Security
 ================================
-List of webistes related to information security that I have kept track of since I began in infosec 4 years ago as well as some sites I had found while a system/windows admin before I knew how to spell "infosec".
+Curated lists of websites related to various categories useful for doing domain research, malware/IOC research, NSM testing like PCAPs, what sites you can perform live analysis/sandbox testing from, and other more specific descriptions as follow: 
 
-This repo contains the following:
-* Reputation -- websites that have information related to malware/nefarious reputations for ip/domains/hashes/ssl-certs/etc. For example use these for searching your indicator on the site to see if you can glean any more information related to that IOC.
-* NonReputation-Domain -- websites that you would use to gather information related to a domain.. Such as WhoIS information or PassiveDNS information
-* LiveAnalysis -- websites that will allow you to submit files, urls, domains, IPs for sandboxing.. ie: online sandbox
-* ETC -- websites for website categorization, malware pcap repos, internet scan websites.
-* Blocklists -- Lists of domains that you can download in bulk/mass list. You could use these for a dns sinkhole/blackhole.. Contains malware, advertisements, spam, phishing, and dynamic dns domains.
+#### [Reputation Searching](Reputation-Searches)
+Sites containing information on whether or not one of the following data types has a reputation, meaning they are defined as malicious, xyz APT, or has data you could use to determine for yourself on whether or not it is malicious or related to something (ie: already existing sandbox report on a file).
+- [IP](Reputation-Searches/IP.md)
+- [Domain](Reputation-Searches/Domain.md)
+- [SSL Certificates](Reputation-Searches/SSL-Certs.md)
+- [Email Address](Reputation-Searches/Email-Senders.md)
+- [Registrants for Domain](Reputation-Searches/Registrants.md)
+- [Hashes such as File, SSL, JA3, etc...](Reputation-Searches/Hashes.md)
 
-You may notice many repetitive websites as many sites contain information for IPs & Domains & Hashes and a URL consists of a domain/IP.
+#### [Domain Information Non Reputation](NonReputation-Domain)
+Information related to a domain that is irregardless of its "reputation" of being malware or other category.. Such as Whois information or PassiveDNS information, or list of gTLD (top level domains like .pink or .university).
+- [TLD Information](NonReputation-Domain/tld-or-gtld-and_or-other_level_domain_subsidy-.md)
+- [Whois and Passive DNS](NonReputation-Domain/WHOIS-and-PDNS.md)
+- [Curated List of Dynamic DNS Domains](https://gist.github.com/neu5ron/8dd695d4cb26b6dcd997)
+- [Dynamic DNS Providers](https://gist.github.com/neu5ron/860c158180e01b61a524)
 
-Many of these sites are run by people in their spare time(for free) and the updates should be used at your own risk.  Kudos to all of these awesome infosec researchers!  Please don't blame your lack of verification on any of their mistakes..ie:accidentally including google .com because you have some sort of un-vetted auto block list.
-If I, at 19 years old, was able to vet Alexa top million then you too can toooooo. Run helpdesk for a few days and you will understand why you too need to vet any auto block lists.
+#### [Live Analysis](LiveAnalysis)
+Sites that allow you to submit Files, URLs, Domains, or IPs for simulated/live analysis (ie: sandbox).
+- [File](LiveAnalysis/File.md)
+- [URL, Domain, or IP](LiveAnalysis/URL-and-Domain.md)
 
-Let me know if I am missing anything!
+#### [ETC](ETC)
+Curated list of websites for things like:
+ - [Website categorization](ETC/WebsiteCategorization.md) ie: determine if it is a shopping, technology, adult, cloud storage, or other categorized site. Similar to categories defined by a web proxy.
+ - Repos of [PCAPs for network/NSM testing](ETC/Malware-Repos-and-PCAPs.md) (ie: wanting to test SIP or an ICS protocol packet capture)
+ - Repos of [PCAPs containing malware](ETC/Malware-Repos-and-PCAPs.md)
+ - Repos of [malware and or malware source code.](ETC/Malware-Repos-and-PCAPs.md)
+ - Sites that have [historical internet scan information ](ETC/InternetScans.md) (ie: like Shodan).
+ - Information on [JA3 hashes and JA3s hashes](ETC/JA3-and-JA3s-hashes.md).
+ - Some [sites or tools for OSINT](ETC/OSINT.md)
+ - [Various tools](ETC/Tools.md) that would aide in anything else in this repo. like a tool for scraping a site, or a tool for doing your own domain collection, etc... However, this is probably updated list of any others because other people have much better curated lists for this.
+ 
+
+#### [Downloadable Blocklists](Downloadable-Blocklists)
+Sites that provide lists of Domains, IPs, URLs, that you can download in bulk/mass for the purpose of blocking or dns sinkhole. Some the lists categorize the data types of whether or not they are malware, advertisements, spam, phishing, and or dynamic dns.
+- [Domains](Downloadable-Blocklists/domains.md)
+- [IPs](Downloadable-Blocklists/ips.md)
+- [URLs](Downloadable-Blocklists/urls.md)
+- [Curated List of Dynamic DNS Domains](https://gist.github.com/neu5ron/8dd695d4cb26b6dcd997/archive/a77f7507e86b5c1c886a247de761b38bbf134f43.zip)
+
+
+### Note
+You may notice many repetitive websites as many sites contain information for IPs & Domains & Hashes and a URL consists of a domain/IP, but I wanted to categorize them based on the relation of what you are investigating.
+
+Let me know if I am missing anything or you think things should be re-categorized.
