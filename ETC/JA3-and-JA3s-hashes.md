@@ -3,3 +3,6 @@
 * https://github.com/salesforce/ja3/tree/master/lists
 * https://github.com/D4-project/sensor-d4-tls-fingerprinting
 * https://sslbl.abuse.ch/ja3-fingerprints/
+* https://ja3er.com/
+    - displays your browsers/clients JA3 hash.
+    - lets u search JA3 hashes and lets you see what other user agents that it has seen with that same JA3 hash
