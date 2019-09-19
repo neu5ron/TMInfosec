@@ -23,12 +23,15 @@ Sites that allow you to submit Files, URLs, Domains, or IPs for simulated/live a
 - [File](LiveAnalysis/File.md)
 - [URL, Domain, or IP](LiveAnalysis/URL-and-Domain.md)
 
+#### [Datasets](Datasets)
+Log records and PCAPs to be used for analysis tests, database/siem/logging testing, machine learning testing, parsing samples, NSM/IDS/application testing.
+ - [Log Records/Samples](Datasets/Log_Records.md) aide in testing analytics, parsers, databases, SIEM, logging solution, etc...
+ - [PCAPs](Datasets/PCAPs.md) useful for testing a protocol parser, additional source of malware samples, testing your IDS, IPS, or NSM application/appliance
+ 
 #### [ETC](ETC)
 Curated list of websites for things like:
  - [Website categorization](ETC/WebsiteCategorization.md) ie: determine if it is a shopping, technology, adult, cloud storage, or other categorized site. Similar to categories defined by a web proxy.
- - Repos of [PCAPs for network/NSM testing](ETC/Malware-Repos-and-PCAPs.md) (ie: wanting to test SIP or an ICS protocol packet capture)
- - Repos of [PCAPs containing malware](ETC/Malware-Repos-and-PCAPs.md)
- - Repos of [malware and or malware source code.](ETC/Malware-Repos-and-PCAPs.md)
+ - Repos of [malware and or malware source code.](ETC/Malware-Repos.md)
  - Sites that have [historical internet scan information ](ETC/InternetScans.md) (ie: like Shodan).
  - Information on [JA3 hashes and JA3s hashes](ETC/JA3-and-JA3s-hashes.md).
  - Some [sites or tools for OSINT](ETC/OSINT.md)

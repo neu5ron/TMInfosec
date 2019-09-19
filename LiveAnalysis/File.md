@@ -10,12 +10,12 @@
 * https://csi.websense.com/
 * https://valkyrie.comodo.com/
 * https://www.opswat.com/free-tools
-* http://www.threatexpert.com/submit.aspx
+* https://www.threatexpert.com/submit.aspx
 * https://www.vicheck.ca/
 * https://sandbox.deepviz.com/
 * https://detux.org/
-* http://akana.mobiseclab.org/
-* http://sandbox.pikker.ee/submit/
+* https://akana.mobiseclab.org/
+* https://sandbox.pikker.ee/submit/
 * https://malwareconfig.com/
 * https://manalyzer.org/
 * https://app.sndbox.com

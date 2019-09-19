@@ -1,13 +1,13 @@
 * https://urlscan.io/
 * https://any.run/
-* http://www.threatglass.com/submissions/new
-* http://www.malwareurl.com/listing-urls.php
-* http://urlquery.net/
-* http://zulu.zscaler.com/
+* https://www.threatglass.com/submissions/new
+* https://www.malwareurl.com/listing-urls.php
+* https://urlquery.net/
+* https://zulu.zscaler.com/
 * https://sitecheck.sucuri.net/
-* http://jsunpack.jeek.org/dec/go
+* https://jsunpack.jeek.org/dec/go
 * https://quttera.com
-* http://evuln.com/tools/malware-scanner/
+* https://evuln.com/tools/malware-scanner/
 * https://www.virustotal.com/#url
 * https://www.url-analyzer.net/
 * https://nodistribute.com/
@@ -16,4 +16,4 @@
 * https://fireeye.ijinshan.com/
 * https://www.joesecurity.org/
 * https://malwr.com/
-* http://sandbox.pikker.ee/submit/
+* https://sandbox.pikker.ee/submit/

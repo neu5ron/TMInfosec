@@ -12,11 +12,11 @@
 * https://cybercrime-tracker.net/all.php
 * https://gist.github.com/neu5ron/8dd695d4cb26b6dcd997/archive/a77f7507e86b5c1c886a247de761b38bbf134f43.zip
 * https://hosts-file.net/download/hosts.txt
-* http://vxvault.net/URL_List.php
-* http://support.it-mate.co.uk/downloads/HOSTS.txt
+* https://vxvault.net/URL_List.php
+* https://support.it-mate.co.uk/downloads/HOSTS.txt
 * https://data.phishtank.com/data/online-valid.json
 * https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-* http://mirror1.malwaredomains.com/files/dynamic_dns.txt
+* https://mirror1.malwaredomains.com/files/dynamic_dns.txt
 * https://www.threatcrowd.org/feeds/domains.txt
 * https://www.threatweb.com/access/Malware-Domains-High_Confidence_BL.txt
 * https://www.threatweb.com/access/Phishing-Domains-High_Confidence_BL.txt
