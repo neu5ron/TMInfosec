@@ -9,6 +9,8 @@
 * https://www.stratosphereips.org/datasets-overview  
 ` Has multiple data sets/models created from real malware traffic captures. Inside these datasets are anything from netflow, pcaps, connection summaries, passivedns, actualy logs themselves, etc...`
 * https://archive.wrccdc.org/pcaps/2019/
+* https://github.com/aol/moloch/tree/master/tests/pcap
+`various PCAPs for testing as provided by Moloch`
 * https://www.unb.ca/cic/datasets/index.html
 * https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html  
 The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efxhpenexqp/AACmuri_l-LDiVDUDJ3hVLqPa?dl=0
