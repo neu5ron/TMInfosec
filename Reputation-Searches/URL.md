@@ -31,3 +31,4 @@
 * https://www.malwares.com/
 * https://urlblacklist.com/?sec=search
 * https://urlhaus.abuse.ch
+* https://tria.ge/

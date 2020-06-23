@@ -47,3 +47,4 @@
 * https://www.brightcloud.com/tools/url-ip-lookup.php
 * www.nothink.org
 * https://www.crimeflare.com/
+* https://tria.ge/

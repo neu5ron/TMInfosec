@@ -19,3 +19,4 @@
 * https://malwareconfig.com/
 * https://manalyzer.org/
 * https://app.sndbox.com
+* https://tria.ge/
