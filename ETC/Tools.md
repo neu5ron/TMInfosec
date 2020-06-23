@@ -1,3 +1,5 @@
+* https://data.mendeley.com/research-data/
+`an open research data repository, where researchers can upload and share their research data`
 * https://gchq.github.io/CyberChef/ -- internal decoding tool
 * https://www.capanalysis.net/ca/ -- pcap
 * https://github.com/siberas/arpwn -- PDF
