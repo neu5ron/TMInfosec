@@ -21,3 +21,5 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 * https://didierstevens.com/files/data/heartbleed_packet_capture.zip
 * https://github.com/401trg/detections/tree/master/pcaps  
 `More at the root repo https://github.com/401trg/detections`
+* https://data.mendeley.com/datasets/zh3wnddzxy/1  
+`Campus DNS network traffic consisting of more than 4000 active users (in peak load hours) for 10 random days in the month of April-May, 2016 is available in hourly PCAP files in the dataset. (At present only traffic for Day0(Full) and Day1(partial) could be uploaded due to 10GB data limit)`
