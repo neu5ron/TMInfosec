@@ -6,12 +6,12 @@
 `This is a list of public packet capture repositories, which are freely available on the Internet. Includes CTF PCAPs, various application samples, captured malware traffic from honeypots, sandboxes or real world intrusions.`
 * https://github.com/david415/honeybadger-pcap-files  
 `PCAPs with TCP injection attacks from.`
-* https://www.secrepo.com/
+* https://www.secrepo.com/  
 `Curated list of Security related data`
 * https://www.stratosphereips.org/datasets-overview  
 ` Has multiple data sets/models created from real malware traffic captures. Inside these datasets are anything from netflow, pcaps, connection summaries, passivedns, actualy logs themselves, etc...`
 * https://archive.wrccdc.org/pcaps/2019/
-* https://github.com/aol/moloch/tree/master/tests/pcap
+* https://github.com/aol/moloch/tree/master/tests/pcap  
 `various PCAPs for testing as provided by Moloch`
 * https://www.unb.ca/cic/datasets/index.html
 * https://contagiodump.blogspot.com/2013/04/collection-of-pcap-files-from-malware.html  
@@ -19,5 +19,5 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 * https://giantpanda.gtisc.gatech.edu/malrec/dataset/  
 `dataset of 66,301 malware recordings collected over a two-year period. Include things such as, but not limited to, antivirus labels for each sample/pcap from Virustotal.`
 * https://didierstevens.com/files/data/heartbleed_packet_capture.zip
-* https://github.com/401trg/detections/tree/master/pcaps
+* https://github.com/401trg/detections/tree/master/pcaps  
 `More at the root repo https://github.com/401trg/detections`
