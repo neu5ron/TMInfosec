@@ -19,3 +19,5 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 * https://giantpanda.gtisc.gatech.edu/malrec/dataset/  
 `dataset of 66,301 malware recordings collected over a two-year period. Include things such as, but not limited to, antivirus labels for each sample/pcap from Virustotal.`
 * https://didierstevens.com/files/data/heartbleed_packet_capture.zip
+* https://github.com/401trg/detections/tree/master/pcaps
+`More at the root repo https://github.com/401trg/detections`
