@@ -25,3 +25,5 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 `Campus DNS network traffic consisting of more than 4000 active users (in peak load hours) for 10 random days in the month of April-May, 2016 is available in hourly PCAP files in the dataset. (At present only traffic for Day0(Full) and Day1(partial) could be uploaded due to 10GB data limit)`
 * https://weberblog.net/the-ultimate-pcap/  
 ` single pcap meant to be a single point of source for Wireshark samples. It is summarizing *all* previous ones from my blog and even adding some more protocols and details. I will constantly add more packets to this pcap if I have some. Currently, it has > 50 different protocols and hundreds of variants, such as IPv6 and legacy IP traffic, different DNS query types, ICMP error codes, and so on.`
+* https://github.com/zeek/zeek/tree/master/testing/btest/Traces  
+`various PCAPs for testing as provided by Moloch`
