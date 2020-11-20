@@ -14,5 +14,7 @@ Exotron wraps the sample in a set of commands that run before and after the samp
 * https://www.takakura.com/Kyoto_data/  
 `Has Zeek(Bro) logs generated from honeypots, "darknet sensors", web crawls, etc...`
 * https://github.com/zeek/zeek/tree/master/testing/btest/Baseline  
-log examples of Zeek that are used for testing. Can be used as a good baseline for how some of the logs look. It is a bit "difficult" to navigate, but if you click into the folders you will find logs.
-for example: [ntp.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.ntp.ntp),  [mqtt connect.log, mqtt_publish.log, mqtt_subscribe.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.mqtt.mqtt), [radius.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.radius.auth)  
+`log examples of Zeek that are used for testing. Can be used as a good baseline for how some of the logs look. It is a bit "difficult" to navigate, but if you click into the folders you will find logs.
+for example:` [ntp.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.ntp.ntp),  [mqtt connect.log, mqtt_publish.log, mqtt_subscribe.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.mqtt.mqtt), [radius.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.radius.auth)
+* https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/  
+`Public dataset of Cloudtrail logs from flaws.cloud`
