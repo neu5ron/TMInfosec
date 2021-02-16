@@ -20,3 +20,4 @@
 * https://www.threatcrowd.org/feeds/domains.txt
 * https://www.threatweb.com/access/Malware-Domains-High_Confidence_BL.txt
 * https://www.threatweb.com/access/Phishing-Domains-High_Confidence_BL.txt
+* https://github.com/carbonblack/active_c2_ioc_public
