@@ -20,3 +20,4 @@
 * https://manalyzer.org/
 * https://app.sndbox.com
 * https://tria.ge/
+* https://yomi.yoroi.company/upload
