@@ -1,0 +1,74 @@
+site_name: TMInfosec
+site_description: Repository of all the sites related to infosec IP/Domain/Hash/SSL/etc OSINT and eventually will include more.
+site_url: https://gtrunsec.github.io/TMInfosec
+repo_name: neu5ron/TMInfosec
+repo_url: https://github.com/neu5ron/TMInfosec
+
+nav:
+- Home Page: README.md
+- Datasets:
+  - Log Records: Datasets/Log_Records.md
+  - Malware: Datasets/Malware.md
+  - PCAPs: Datasets/PCAPs.md
+- ETC:
+  - InternetScans: ETC/InternetScans.md
+  - JA3-and-JA3s-hashes: ETC/JA3-and-JA3s-hashes.md
+  - Malware-Repos: ETC/Malware-Repos.md
+  - OSINT: ETC/OSINT.md
+  - Tools: ETC/Tools.md
+  - WebsiteCategorization: ETC/WebsiteCategorization.md
+
+- LiveAnalysis:
+  - File: LiveAnalysis/File.md
+  - URL-and-Domain: LiveAnalysis/URL-and-Domain.md
+
+- NonReputation Domain:
+  - WHOIS and PDNS: NonReputation-Domain/WHOIS-and-PDNS.md
+  - tld-or-gtld-and_or-other_level_domain_subsidy: NonReputation-Domain/tld-or-gtld-and_or-other_level_domain_subsidy.md
+
+- Reputation-Searches:
+  - Domain: Reputation-Searches/Domain.md
+  - Email-Senders: Reputation-Searches/Email-Senders.md
+  - Hashes: Reputation-Searches/Hashes.md
+  - IP: Reputation-Searches/IP.md
+  - Registrants: Reputation-Searches/Registrants.md
+  - SSL-Certs: Reputation-Searches/SSL-Certs.md
+  - URL: Reputation-Searches/URL.md
+
+- Downloadable-Blocklists:
+    - domains: Downloadable-Blocklists/domains.md
+    - ips: Downloadable-Blocklists/ips.md
+    - urls: Downloadable-Blocklists/urls.md
+
+
+
+
+
+extra_css:
+  - assets/css/customizations.css
+
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.top
+  - navigation.expand
+  - navigation.instant
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - search
+  - awesome-pages
