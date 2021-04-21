@@ -18,7 +18,7 @@ nav:
   - Tools: ETC/Tools.md
   - WebsiteCategorization: ETC/WebsiteCategorization.md
 
-- LiveAnalysis:
+- Live Analysis:
   - File: LiveAnalysis/File.md
   - URL-and-Domain: LiveAnalysis/URL-and-Domain.md
 
@@ -26,7 +26,7 @@ nav:
   - WHOIS and PDNS: NonReputation-Domain/WHOIS-and-PDNS.md
   - tld-or-gtld-and_or-other_level_domain_subsidy: NonReputation-Domain/tld-or-gtld-and_or-other_level_domain_subsidy.md
 
-- Reputation-Searches:
+- Reputation Searches:
   - Domain: Reputation-Searches/Domain.md
   - Email-Senders: Reputation-Searches/Email-Senders.md
   - Hashes: Reputation-Searches/Hashes.md
@@ -35,10 +35,10 @@ nav:
   - SSL-Certs: Reputation-Searches/SSL-Certs.md
   - URL: Reputation-Searches/URL.md
 
-- Downloadable-Blocklists:
-    - domains: Downloadable-Blocklists/domains.md
-    - ips: Downloadable-Blocklists/ips.md
-    - urls: Downloadable-Blocklists/urls.md
+- Downloadable Blocklists:
+  - domains: Downloadable-Blocklists/domains.md
+  - ips: Downloadable-Blocklists/ips.md
+  - urls: Downloadable-Blocklists/urls.md
 
 
 
