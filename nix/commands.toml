@@ -1,0 +1,5 @@
+[[commands]]
+name = "mk-local"
+category = "mkdocs"
+command = "cp -rf README.md docs && mkdocs build"
+help = "mkdocs build -> site/"

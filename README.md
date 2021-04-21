@@ -13,7 +13,7 @@ Sites containing information on whether or not one of the following data types h
 
 #### [Domain Information Non Reputation](NonReputation-Domain)
 Information related to a domain that is irregardless of its "reputation" of being malware or other category.. Such as Whois information or PassiveDNS information, or list of gTLD (top level domains like .pink or .university).
-- [TLD Information](NonReputation-Domain/tld-or-gtld-and_or-other_level_domain_subsidy-.md)
+- [TLD Information](NonReputation-Domain/tld-or-gtld-and_or-other_level_domain_subsidy.md)
 - [Whois and Passive DNS](NonReputation-Domain/WHOIS-and-PDNS.md)
 - [Curated List of Dynamic DNS Domains](https://gist.github.com/neu5ron/8dd695d4cb26b6dcd997)
 - [Dynamic DNS Providers](https://gist.github.com/neu5ron/860c158180e01b61a524)
