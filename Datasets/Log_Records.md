@@ -18,3 +18,5 @@ Exotron wraps the sample in a set of commands that run before and after the samp
 for example:` [ntp.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.ntp.ntp),  [mqtt connect.log, mqtt_publish.log, mqtt_subscribe.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.mqtt.mqtt), [radius.log](https://github.com/zeek/zeek/tree/master/testing/btest/Baseline/scripts.base.protocols.radius.auth)
 * https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/  
 `Public dataset of Cloudtrail logs from flaws.cloud`
+* https://github.com/iHeartGraph/PicoDomain
+`The PicoDomain is a compact high-fidelity collection of Zeek logs from a realistic intrusion using relevant Tools, Techniques, and Procedures. It is designed to provide representative traffic of a small Windows domain and be small enough to be used during rapid prototyping.`
