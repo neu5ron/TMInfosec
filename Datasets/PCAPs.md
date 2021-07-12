@@ -11,6 +11,7 @@
 * https://www.stratosphereips.org/datasets-overview  
 ` Has multiple data sets/models created from real malware traffic captures. Inside these datasets are anything from netflow, pcaps, connection summaries, passivedns, actualy logs themselves, etc...`
 * https://archive.wrccdc.org/pcaps/2019/
+`PCAPs from 2019 Western Regional Collegiate Cyber Defense Competition`
 * https://github.com/aol/moloch/tree/master/tests/pcap  
 `various PCAPs for testing as provided by Moloch`
 * https://www.unb.ca/cic/datasets/index.html
