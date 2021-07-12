@@ -1,5 +1,5 @@
 * https://www.malware-traffic-analysis.net/index.html  
-`Since the summer of 2013 (currently 2019-09-19 and still updated), this site has published over 1,600 blog entries about malicious network traffic.  Almost every post on this site has pcap files or malware samples (or both).`
+`Since 2013 this site continues to publish malicious network traffic captures with PCAPs to download..`
 * https://www.pcapanalysis.com  
 `Download PCAPs from Malware, Exploit Kits, DDoS Attacks, Network Traffic & Everything Inbetween`
 * https://www.netresec.com/?page=PcapFiles  
@@ -26,7 +26,7 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 * https://weberblog.net/the-ultimate-pcap/  
 ` single pcap meant to be a single point of source for Wireshark samples. It is summarizing *all* previous ones from my blog and even adding some more protocols and details. I will constantly add more packets to this pcap if I have some. Currently, it has > 50 different protocols and hundreds of variants, such as IPv6 and legacy IP traffic, different DNS query types, ICMP error codes, and so on.`
 * https://github.com/zeek/zeek/tree/master/testing/btest/Traces  
-`various PCAPs for testing as provided by Moloch`
+`various PCAPs for testing as provided by Zeek`
 * https://github.com/FiveDirections/OpTC-data  
 `Zeek data and flow data provided by a simulation by Darpa. Download link of data is here: https://drive.google.com/drive/u/0/folders/1n3kkS3KR31KUegn42yk3-e6JkZvf0Caa`
 * https://github.com/sbousseaden/PCAP-ATTACK  
