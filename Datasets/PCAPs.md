@@ -32,3 +32,7 @@ The new link appears to be (as of 2019-09-19) https://www.dropbox.com/sh/7fo4efx
 `Zeek data and flow data provided by a simulation by Darpa. Download link of data is here: https://drive.google.com/drive/u/0/folders/1n3kkS3KR31KUegn42yk3-e6JkZvf0Caa`
 * https://github.com/sbousseaden/PCAP-ATTACK  
 `PCAP captures mapped to the relevant MITRE ATT&CK tactic.`
+* https://github.com/OTRF/detection-hackathon-apt29/tree/master/datasets/day1/pcaps
+`APT 29 (Day 1) Simulation by @OTRF Community`
+* https://github.com/OTRF/detection-hackathon-apt29/tree/master/datasets/day2/pcaps
+`APT 29 (Day 2) Simulation by @OTRF Community`
