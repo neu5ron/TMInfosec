@@ -20,3 +20,30 @@ for example:` [ntp.log](https://github.com/zeek/zeek/tree/master/testing/btest/B
 `Public dataset of Cloudtrail logs from flaws.cloud`
 * https://github.com/iHeartGraph/PicoDomain
 `The PicoDomain is a compact high-fidelity collection of Zeek logs from a realistic intrusion using relevant Tools, Techniques, and Procedures. It is designed to provide representative traffic of a small Windows domain and be small enough to be used during rapid prototyping.`
+* https://github.com/logpai/loghub
+`github collection of logs including Android, Apache, BGL, HDFS, HPC, Hadoop, HealthApp, Linux, Mac, OpenSSH, OpenStack, Proxifier, Spark, Thunderbird, Windows, Zookeeper.
+This is a github, subset, of the full datasets stored at https://zenodo.org/record/3227177`
+* https://zenodo.org/record/3227177
+`full dataset of https://github.com/logapi/loghub. containing logs of Android, Apache, BGL, HDFS, HPC, Hadoop, HealthApp, Linux, Mac, OpenSSH, OpenStack, Proxifier, Spark, Thunderbird, Windows, Zookeeper.`
+* https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md
+`This repository contains a representative subset of the first-party virtual machine workload (VM) of Microsoft Azure in one of its geographical regions. The trace is a sanitized subset of the Azure VM workload described in "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms" in SOSP’17. We include in this repository a jupyter notebook that directly compares the main characteristics of the two traces, showing that they are qualitatively very similar.`
+* https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md
+`This repository contains a representative subset of the first-party virtual machine workload (VM) of Microsoft Azure in one of its geographical regions. The trace is a sanitized subset of the Azure VM workload described in "Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms" in SOSP’17. We include in this repository a jupyter notebook that directly compares the main characteristics of the two traces, showing that they are qualitatively very similar.`
+* http://log-sharing.dreamhosters.com/hnet-hon-var-log-02282006.tgz
+`Linux logs /var/log/messages, /var/log/secure , process accounting records /var/log/pacct , other Linux logs, Apache web server logs /var/log/httpd/access_log, /var/log/httpd/error-log, /var/log/httpd/referer-log and /var/log/httpd/audit_log , Sendmail /var/log/mailog, Squid /var/log/squid/access_log, /var/log/squid/store_log, /var/log/squid/cache_log, etc.`
+* http://log-sharing.dreamhosters.com/SotM30-anton.log.gz
+`Linux IPTABLES firewall logs`
+* http://log-sharing.dreamhosters.com/SotM34-anton.tar.gz
+`correlated Linux /var/log/messages, Apache /var/log/httpd/access_log, /var/log/httpd/error_log, /var/log/httpd/ssl_error, IPTABLES firewall log and Snort NIDS logs /var/log/snortsyslog`
+* http://log-sharing.dreamhosters.com/hnet-hon-var-log-08302005.tar.bz2
+`Linux logs /var/log/messages, /var/log/secure , process accounting records /var/log/pacct , other Linux logs, Apache web server logs /var/log/httpd/access_log, /var/log/httpd/error-log, /var/log/httpd/referer-log and /var/log/httpd/audit_log , Sendmail /var/log/mailog, Squid /var/log/squid/access_log, /var/log/squid/store_log, /var/log/squid/cache_log, etc.`
+* http://log-sharing.dreamhosters.com/Bastion.tar
+`/var/log/allow is an ugly mess of a log file produced by setting a syslog daemon to log "*.*" to a single file. The main logging components of interest here are Snort NIDS in inline mode watching a honeynet of Linux systems as well as the iptables firewall for the same. You can ignore the actual Linix syslog, if you'd like, since this is not the victim host log, but the sensor's (unless you are into analyzing the system health of honeypot sensors, that is :-))`
+* http://log-sharing.dreamhosters.com/dragon-conv-000_590.tar.bz2
+`standard Dragon NIDS alert logs, all signatures enabled. Automatic signature update enabled.`
+* http://log-sharing.dreamhosters.com/hnet-hon-10122004-var.tar.bz2
+`Linux logs /var/log/messages, /var/log/secure , process accounting records /var/log/pacct , other Linux logs, Apache web server logs /var/log/httpd/access_log, /var/log/httpd/error-log and , Sendmail /var/log/mailog, Squid /var/log/squid/access_log, /var/log/squid/store_log, /var/log/squid/cache_log, etc. (fun Squid proxy logs during honeynet operation as an open proxy)`
+* http://log-sharing.dreamhosters.com/bluecoat_proxy_big.zip
+`Standard web proxy log in W3C format (header, tab separated) from BlueCoat web proxy appliance. These logs were collected on the lab network, simulated traffic might be mixed with production traffic.` 
+* https://honeynet.onofri.org/misc/files/apache_logs.tar.gz
+`all types of Apache web server (access_log, error_log, audit_log, various ssl logs, etc )`
