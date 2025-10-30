@@ -20,7 +20,7 @@ for example:` [ntp.log](https://github.com/zeek/zeek/tree/master/testing/btest/B
 `Public dataset of Cloudtrail logs from flaws.cloud`
 * https://github.com/iHeartGraph/PicoDomain
 `The PicoDomain is a compact high-fidelity collection of Zeek logs from a realistic intrusion using relevant Tools, Techniques, and Procedures. It is designed to provide representative traffic of a small Windows domain and be small enough to be used during rapid prototyping.`
-* https://github.com/logpai/loghub
+* https://github.com/logpai/loghub-2.0 https://github.com/logpai/loghub
 `github collection of logs including Android, Apache, BGL, HDFS, HPC, Hadoop, HealthApp, Linux, Mac, OpenSSH, OpenStack, Proxifier, Spark, Thunderbird, Windows, Zookeeper.
 This is a github, subset, of the full datasets stored at https://zenodo.org/record/3227177`
 * https://zenodo.org/record/3227177
